@@ -1,10 +1,3 @@
-
-# 🚀 Full Stack Developer 🚀
-
-<p align="center">
-   <img  src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="100%" />
-</p>
-
 <h1 >Hola 👋, Mi nombre es Jarol Valdez</h1>
 
 ## ¿Quién soy? 
@@ -60,7 +53,7 @@ Por lo que las principales tecnologías que manejo son:
         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
         alt="gmail" height="30"/></a>
 
-<img src="https://i.gifer.com/C6ix.gif" alt="cartero" width="40" height="40"/>
+<p align="center">
+   <img  src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="100%" />
+</p>
 
-
-![Descripción del GIF](https://i.gifer.com/C6ix.gif)
