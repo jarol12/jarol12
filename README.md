@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/Download%20CV-Jarol%20 %20Valdez-blue" />
 </a>
  </h4>
+ 
 ## ¿Quién soy? 
 
 <p> Soy un apasionado desarrollador full stack con experiencia en la creación de aplicaciones web y móviles. Me encanta enfrentar desafíos y encontrar soluciones creativas. Mi enfoque se centra en desarrollar productos atractivos y funcionales que brinden una gran experiencia de usuario. Siempre estoy buscando oportunidades emocionantes para colaborar en proyectos innovadores y causar un impacto positivo en el mundo. ¡Unámonos y creemos algo increíble juntos!"</p>
