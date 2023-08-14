@@ -1,6 +1,13 @@
-<h1 align="center">Hola 👋, Mi nombre es Jarol Valdez</h1>
 
-## ¿Quién soy? 👦
+# 🚀 Full Stack Developer 🚀
+
+<p align="center">
+   <img  src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="100%" />
+</p>
+
+<h1 >Hola 👋, Mi nombre es Jarol Valdez</h1>
+
+## ¿Quién soy? 
 
 <p> Soy un apasionado desarrollador full stack con experiencia en la creación de aplicaciones web y móviles. Me encanta enfrentar desafíos y encontrar soluciones creativas. Mi enfoque se centra en desarrollar productos atractivos y funcionales que brinden una gran experiencia de usuario. Siempre estoy buscando oportunidades emocionantes para colaborar en proyectos innovadores y causar un impacto positivo en el mundo. ¡Unámonos y creemos algo increíble juntos!"</p>
 
@@ -53,3 +60,7 @@ Por lo que las principales tecnologías que manejo son:
         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
         alt="gmail" height="30"/></a>
 
+<img src="https://i.gifer.com/C6ix.gif" alt="cartero" width="40" height="40"/>
+
+
+![Descripción del GIF](https://i.gifer.com/C6ix.gif)
