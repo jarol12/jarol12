@@ -1,5 +1,20 @@
-<h1 >Hola 👋, Mi nombre es Jarol Valdez</h1>
+<p align="right">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%2300EF07&size=22&duration=4000&center=true&vCenter=true&width=190&height=20&lines=Visitor+Counter">
+  </a>
+ <br>
+ <img src="https://profile-counter.glitch.me/{jarol12}/count.svg" align="right"/>
+ <br>
+</p>
 
+<img src="https://midu.dev/images/wallpapers/una-taza-de-javascript.png" width= "100%" />
+
+<h1 >Hola 👋, Mi nombre es Jarol Valdez</h1>
+<h4 align = "center" >
+<a href="#">
+<img src="https://img.shields.io/badge/Download%20CV-Jarol%20 %20Valdez-blue" />
+</a>
+ </h4>
 ## ¿Quién soy? 
 
 <p> Soy un apasionado desarrollador full stack con experiencia en la creación de aplicaciones web y móviles. Me encanta enfrentar desafíos y encontrar soluciones creativas. Mi enfoque se centra en desarrollar productos atractivos y funcionales que brinden una gran experiencia de usuario. Siempre estoy buscando oportunidades emocionantes para colaborar en proyectos innovadores y causar un impacto positivo en el mundo. ¡Unámonos y creemos algo increíble juntos!"</p>
@@ -42,6 +57,21 @@ Por lo que las principales tecnologías que manejo son:
 </p>
 <br/><br/><br/>
 
+<details>
+<summary> 🎮 Mis últimos proyectos </summary> <br>
+ <h2 align="center">🎮 Mis últimos proyectos 🎮 </h2>
+
+<br>
+ 
+<a href="https://alierenkayhan.itch.io/the-virus"><img src="https://img.itch.zone/aW1nLzgxMjI3MTAucG5n/315x250%23c/K8SF1c.png" width="208" height="167" title="The Virus"/></a> 
+<a href="https://alierenkayhan.itch.io/wer-ist-der-mrder"><img src="https://img.itch.zone/aW1nLzg2ODQ0NTguanBlZw==/315x250%23c/TtQgqA.jpeg" width="208" height="167" title="Wer Ist Der Mörder?"/></a>
+<a href="https://alierenkayhan.itch.io/atlye"><img src="https://img.itch.zone/aW1nLzg4MjA5NDAuanBn/315x250%23c/Aprazu.jpg" width="208" height="167" title="Atölye"/></a>
+<a href="https://alierenkayhan.itch.io/boun-edutech-simulation"><img src="https://github.com/Alierenkayhan/Alierenkayhan/blob/main/images/image/edutech.jpg?raw=true" width="208" height="167" title="Boun EduTech simulation"/></a>
+
+  
+<br>
+</details>
+
 
 ## Conéctate conmigo: 💼
 <p>Si tienes un proyecto interesante en el que crees que puedo aportar, ¡no dudes en contactarme! Estoy emocionado por las oportunidades que el futuro tiene reservadas <p/>
@@ -52,6 +82,7 @@ Por lo que las principales tecnologías que manejo son:
         <a href="mailto:jatlosale@gmail.com" target="blank"><img align="center"
         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
         alt="gmail" height="30"/></a>
+<br/><br/><br/>
 
 <p align="center">
    <img  src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="100%" />
