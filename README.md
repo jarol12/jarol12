@@ -45,7 +45,11 @@ Por lo que las principales tecnologías que manejo son:
 
 ## Conéctate conmigo: 💼
 <p>Si tienes un proyecto interesante en el que crees que puedo aportar, ¡no dudes en contactarme! Estoy emocionado por las oportunidades que el futuro tiene reservadas <p/>
-<p align="left">
-<a href="https://linkedin.com/in/jarol valdez" target="blank">LinkedIn</a> </p> 
-<a href="mailto:jatlosale@gmail.com?">Contactar por correo</a>
+<p align="center">
+<a href="https://www.linkedin.com/in/jamerrq/" target="blank"><img align="center"
+        src="#"
+        alt="linkedin" height="30"/></a>
+        <a href="mailto:jatlosale@gmail.com" target="blank"><img align="center"
+        src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="gmail" height="30"/></a>
 
