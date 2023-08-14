@@ -4,7 +4,7 @@
 
 <p> Soy un apasionado desarrollador full stack con experiencia en la creación de aplicaciones web y móviles. Me encanta enfrentar desafíos y encontrar soluciones creativas. Mi enfoque se centra en desarrollar productos atractivos y funcionales que brinden una gran experiencia de usuario. Siempre estoy buscando oportunidades emocionantes para colaborar en proyectos innovadores y causar un impacto positivo en el mundo. ¡Unámonos y creemos algo increíble juntos!"</p>
 
-## ¿Qué hago?
+## ¿Qué hago? 👨‍💻
 1. **Desarrollo de aplicaciones web:** Tengo experiencia en la creación de aplicaciones para web, utilizando tecnologías como HTML, CSS y JavaScript.
 2. **Front-end:** Soy hábil en el desarrollo de interfaces de usuario atractivas y responsivas utilizando frameworks y bibliotecas populares como React y React Native.
 3.  **Back-end:** Tengo experiencia en el desarrollo de la lógica del servidor utilizando tecnologías como Node.js, Express.js, Django, y en la implementación de bases de datos relacionales o no relacionales.
@@ -19,7 +19,7 @@ Me encanta trabajar en equipo y colaborar en proyectos desafiantes que me permit
  
 Mi meta a largo plazo es convertirme en un líder técnico y contribuir a la comunidad de desarrolladores compartiendo mis conocimientos y experiencias. 
 
-## ¿Qué tecnologías uso? 
+## ¿Qué tecnologías uso? ⚙
 El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental
 para despegar 🚀 
 Por lo que las principales tecnologías que manejo son: 
@@ -45,9 +45,9 @@ Por lo que las principales tecnologías que manejo son:
 
 ## Conéctate conmigo: 💼
 <p>Si tienes un proyecto interesante en el que crees que puedo aportar, ¡no dudes en contactarme! Estoy emocionado por las oportunidades que el futuro tiene reservadas <p/>
-<p align="center">
-<a href="https://www.linkedin.com/in/jamerrq/" target="blank"><img align="center"
-        src="#"
+<p align="left">
+ <a href="#" target="blank"><img align="center"
+        src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         alt="linkedin" height="30"/></a>
         <a href="mailto:jatlosale@gmail.com" target="blank"><img align="center"
         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
