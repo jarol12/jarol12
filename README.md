@@ -6,9 +6,6 @@
  <img src="https://profile-counter.glitch.me/{jarol12}/count.svg" align="right"/>
  <br>
 </p>
-
-<img src="https://midu.dev/images/wallpapers/una-taza-de-javascript.png" width= "100%" />
-
 <h1 >Hola 👋, Mi nombre es Jarol Valdez</h1>
 <h4 align = "center" >
 <a href="#">
