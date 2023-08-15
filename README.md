@@ -56,13 +56,18 @@ Por lo que las principales tecnologías que manejo son:
 <br/><br/><br/>
 
 <details>
-<summary> <h2>🎮 Mis últimos proyectos</h2> </summary> <br>
+<summary> <h2>🎮proyectos</h2> </summary> <br>
  <h2 align="center">🎮 Mis últimos proyectos 🎮 </h2>
 
 <br>
-
-
+<div align="center">
   
+## Tourist places
+<img src="https://s4.aconvert.com/convert/p3r68-cdx67/atfyk-qkbjl.jpg" width="288" height="227" />
+<img src="https://s4.aconvert.com/convert/p3r68-cdx67/ax3fx-lokyq.jpg" width="288" height="227" />
+<img src="https://s4.aconvert.com/convert/p3r68-cdx67/aj0ih-5tc9c.jpg" width="288" height="227" />
+</div>
+
 <br>
 </details>
 
