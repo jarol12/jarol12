@@ -7,6 +7,7 @@
  <br>
 </p>
 <h1 >Hola  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">, Mi nombre es Jarol Valdez</h1>
+<img src="https://s4.aconvert.com/convert/p3r68-cdx67/a1jl7-3hexa.png" alt="portada"/>
 <h4 align = "center" >
 <a href="#">
 <img src="https://img.shields.io/badge/Download%20CV-Jarol%20 %20Valdez-blue" />
