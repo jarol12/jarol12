@@ -16,7 +16,7 @@
  
 ## ¿Quién soy? 
 
-<p> Soy un apasionado desarrollador full stack con experiencia en la creación de aplicaciones web y móviles. Me encanta enfrentar desafíos y encontrar soluciones creativas. Mi enfoque se centra en desarrollar productos atractivos y funcionales que brinden una gran experiencia de usuario. Siempre estoy buscando oportunidades emocionantes para colaborar en proyectos innovadores y causar un impacto positivo en el mundo. ¡Unámonos y creemos algo increíble juntos!"</p>
+<p> Soy un apasionado desarrollador full stack con experiencia en la creación de aplicaciones web. Me encanta enfrentar desafíos y encontrar soluciones creativas. Mi enfoque se centra en desarrollar productos atractivos y funcionales que brinden una gran experiencia de usuario. Siempre estoy buscando oportunidades emocionantes para colaborar en proyectos innovadores y causar un impacto positivo en el mundo. ¡Unámonos y creemos algo increíble juntos!"</p>
 
 ## ¿Qué hago? 👨‍💻
 1. **Desarrollo de aplicaciones web:** Tengo experiencia en la creación de aplicaciones para web, utilizando tecnologías como HTML, CSS y JavaScript.
